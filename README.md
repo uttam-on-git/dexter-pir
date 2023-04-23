@@ -1,1 +1,1 @@
-Hi, I'm Romendra Uttam, and this is my [Twitter Handle](https://twitter.com/dexter/piro).
+Hi, I'm Romendra Uttam [Software Engineer], and this is my [Twitter Handle](https://twitter.com/dexter/piro).
