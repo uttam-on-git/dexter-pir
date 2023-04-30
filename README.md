@@ -1,1 +1,1 @@
-HI, I'm Romendra Uttam [Software Engineer], and this is my [Twitter Handle](https://twitter.com/dexter/piro).
+ Hi, I'm ROMENDRA UTTAM, and I'm a self-taught learner in computer science and technology. I spend a lot of my free time exploring new programming languages, frameworks, and technologies to expand my knowledge and skillset...this is my [Twitter Handle](https://twitter.com/dexter/piro).
